@@ -36,12 +36,12 @@
   border: 0px;
   background: #97a9bd;
   outline: none;
+  transition: 0.5s;
 }
 
 .main-background .mainbutton:hover {
   background-color: wheat;
   color: black;
-  transition: ease-in-out 0.75s;
 }
 
 /* Buttons */
@@ -77,11 +77,11 @@
   text-align: center;
   opacity: 0.45;
   outline: none;
+  transition: 0.5s;
 }
 
 .flexbox-container .box button:hover {
   opacity: 1;
-  transition-duration: 0.4s;
 }
 
 .boxh6 {
